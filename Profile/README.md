@@ -27,5 +27,5 @@ The Brownie Clicker
 </pre>
 
 ## Project 1 at the Wild Code School
-SOON...
+COMING SOON...
 
