@@ -8,6 +8,9 @@ A group of four people who make an incredible Brownie Clicker for a school proje
 * **Charlie Perron D'Arc** _Omicro_((https://github.com/CPdA-Omi)https://github.com/CPdA-Omi)
 * **Maxime Royan** _Emixam113_((https://github.com/emixam113)https://github.com/emixam113)
 
+
+The Brownie Clicker
+===================
 <pre>
 ████████╗██╗  ██╗███████╗    ██████╗ ██████╗  ██████╗ ██╗    ██╗███╗   ██╗██╗███████╗
 ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗██║    ██║████╗  ██║██║██╔════╝
@@ -22,9 +25,6 @@ A group of four people who make an incredible Brownie Clicker for a school proje
                ╚██████╗███████╗██║╚██████╗██║  ██╗███████╗██║  ██║
                 ╚═════╝╚══════╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 </pre>
-
-The Brownie Clicker
-===================
 
 ## Project 1 at the Wild Code School
 SOON...
